@@ -9,7 +9,7 @@ This project was bootstrapped with. [React Native Cli](https://docs.expo.dev/wor
 The project is created with-:
 
 ```
-epx react-native init calculator
+npx react-native init quiz-app
 ```
 
 In the project directory, you can run-:
